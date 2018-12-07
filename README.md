@@ -1,8 +1,9 @@
 # **USC**
-https://www.usc.us
+website： https://www.usc.us
 
-#### What is USC
 ----------------
+#### What is USC
+
 USC Pay is a decentralized digital blockchain payment tool. It allows you to store, send and receive USC assets safely and gives you 100% control of your assets. USC group is committed to show a good user experience of USC Pay.
 
 
@@ -39,7 +40,8 @@ usc erc20 contract Our contract provide following funcions:
 * transferFrom(address _from, address _to, uint256 _value) ： Transfer tokens from one address to another
 * approve(address _spender, uint256 _value)：Approve the passed address to spend the specified amount of tokens on behalf of msg.sender allowance(address _owner, address _spender) ：Function to check the amount of tokens that an owner allowed to a spender
 * increaseApproval(address _spender, uint _addedValue) ：Increase the amount of tokens that an owner allowed to a spender
-* decreaseApproval(address _spender, uint _subtractedValue) ：Decrease the amount of tokens that an owner allowed to a spender 8.mintToken( uint256 _value)：Mint the amount of tokens that only contract owner
+* decreaseApproval(address _spender, uint _subtractedValue) ：Decrease the amount of tokens that an owner allowed to a spender
+* mintToken( uint256 _value)：Mint the amount of tokens that only contract owner
 
 
 
